@@ -5,3 +5,7 @@ a test repository to learn git / github
 
 - create a remote repo on github
 - practise git 
+
+## Authors
+
+- Pascal Egli
