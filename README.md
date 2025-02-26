@@ -9,3 +9,4 @@ a test repository to learn git / github
 ## Authors
 
 - Pascal Egli
+- Peyton Smith
