@@ -1,7 +1,7 @@
 # pascal_test
 a test repository to learn git / github
 
-## Purpose
+## Purpose & more
 
 - create a remote repo on github
 - practise git 
